@@ -1,0 +1,6 @@
+{
+  "name": "Taal Cinema - Bollywood Dance Video & Reel Studio",
+  "description": "Ultra-realistic cinematic 9:16 Bollywood dance music video player and studio featuring consistent character choreography, live audio beat synchronization, and AI video prompt director.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
